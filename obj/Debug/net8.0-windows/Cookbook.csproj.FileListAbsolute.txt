@@ -1,0 +1,17 @@
+C:\Users\ibola\source\repos\Cookbook\bin\Debug\net8.0-windows\Cookbook.exe
+C:\Users\ibola\source\repos\Cookbook\bin\Debug\net8.0-windows\Cookbook.deps.json
+C:\Users\ibola\source\repos\Cookbook\bin\Debug\net8.0-windows\Cookbook.runtimeconfig.json
+C:\Users\ibola\source\repos\Cookbook\bin\Debug\net8.0-windows\Cookbook.dll
+C:\Users\ibola\source\repos\Cookbook\bin\Debug\net8.0-windows\Cookbook.pdb
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.FormRecipeDetails.resources
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.MainForm.resources
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.csproj.GenerateResource.cache
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.AssemblyInfoInputs.cache
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.AssemblyInfo.cs
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.dll
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\refint\Cookbook.dll
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.pdb
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.genruntimeconfig.cache
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\ref\Cookbook.dll
