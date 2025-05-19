@@ -10,6 +10,7 @@ C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.Generated
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.AssemblyInfoInputs.cache
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.AssemblyInfo.cs
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.sourcelink.json
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.dll
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\refint\Cookbook.dll
 C:\Users\ibola\source\repos\Cookbook\obj\Debug\net8.0-windows\Cookbook.pdb
